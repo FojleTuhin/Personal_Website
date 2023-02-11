@@ -1,0 +1,86 @@
+
+body{
+    font-family: 'Itim', cursive;
+    background-color: aliceblue;
+}
+#First_part{
+    background-image:url(photos/header-bg.png);
+
+}
+#Second_part{
+    background-image: url(photos/biography-bg.png)
+}
+
+#Fourth_part{
+    background-image: url(photos/footer-bg.png);
+}
+
+section{
+    height: 600px;
+}
+.divider{
+    margin: 2%;
+    width: 40%;
+    float: left;
+    padding: 2%;
+
+}
+.divider img{
+    width: 80%;
+    height: 80%;
+}
+#padding{
+    padding: 50px;
+}
+.ankor{
+    background-color:hotpink ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#middle{
+    padding: 10px 90px ;
+}
+#imgs{
+    padding: 70px;
+}
+#Name{
+    color: deeppink;
+}
+.Text{
+    text-align: center;
+    padding: 30px;
+}
+.images img{
+    width: 30%;
+    height: auto;
+    padding: 18px;
+}
+#front{
+    font-size: 15px;
+    color: gray;
+}
+#mail{
+    font-size: 30px;
+    color: aliceblue;
+    text-decoration: none;
+}
+#size{
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
+
+#boxing{
+    background-color: hotpink;
+    margin: 7% 20%;
+    color: aliceblue;
+    border-radius: 10px;
+
+}
+
+
